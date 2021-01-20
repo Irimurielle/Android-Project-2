@@ -29,7 +29,7 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 
-import static com.irimurielle.foodrecipes.ui.home.HomeActivity.EXTRA_DETAIL;
+import static com.irimurielle.foodrecipes2.ui.home.HomeActivity.EXTRA_DETAIL;
 
 public class CategoryFragment extends Fragment implements CategoryView {
 
